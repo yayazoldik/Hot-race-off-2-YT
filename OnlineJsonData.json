@@ -6,10 +6,10 @@
       "adcolony_rewarded_id" : ""
     },
     "admob" : {
-      "admob_banner_id" : "ca-app-pub-5832126246750193/9170049830",
-      "admob_interstitial_id" : "ca-app-pub-5832126246750193/1099988121",
-      "admob_native_id" : "ca-app-pub-5832126246750193/1753776005",
-      "admob_rewarded_id" : "ca-app-pub-5832126246750193/7076231357",
+      "admob_banner_id" : "ca-app-pub-9565218898651576/9935496270",
+      "admob_interstitial_id" : "ca-app-pub-9565218898651576/3370087921",
+      "admob_native_id" : "ca-app-pub-9565218898651576/3453848404",
+      "admob_rewarded_id" : "ca-app-pub-9565218898651576/9636113372",
       "admob_unit_id" : ""
     },
     "appodeal" : {
@@ -23,8 +23,8 @@
     "mode_ads_banner" : "admob",
     "mode_ads_interstitial" : "admob",
     "mode_ads_native_enabled" : true,
-    "mode_ads_rewarded" : "admob",
-    "mode_button_ads_action" : "0",
+    "mode_ads_rewarded" : "0",
+    "mode_button_ads_action" : "https://play.google.com/store/apps/details?id=com.yassinetv.yassinetv",
     "unity" : {
       "unity_app_id" : "",
       "unity_banner_id" : "",
