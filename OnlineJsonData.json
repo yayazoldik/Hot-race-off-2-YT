@@ -45,75 +45,67 @@
   "posts" : [
     {
       "id" : 0,
-      "imageURL" : "https://image.winudf.com/v2/image1/Y29tLmJhemFyY2hlaC5hcHBfc2NyZWVuXzBfMTU4Mjk5NTM4OV8wNzQ/screen-0.jpg?fakeurl=1&type=.jpg",
+      "imageURL" : "https://dadamou.github.io/bazzaar/title.png",
       "state" : "free",
-      "title" : "main",
+      "title" : "",
       "description" : "",
-      "written" : "helloooo<br>Step 1"
+      "written" : "The New Cafe Bazaar Press Information Forum Cafe Bazaar is the largest applications and mobile games store in Iran with over 40 million users. This forum was created to provide news and updates about Cafe Bazaar to journalists worldwide."
     },
     {
       "id" : 1,
-      "imageURL" : "https://image.winudf.com/v2/image1/Y29tLmJhemFyY2hlaC5hcHBfc2NyZWVuXzFfMTYxNDg3MzA4NF8wOTk/screen-1.jpg?fakeurl=1&type=.jpg",
+      "imageURL" : "https://dadamou.github.io/bazzaar/About%20Cafe%20Bazaar.png",
       "state" : "free",
-      "title" : "Activity 2",
+      "title" : "",
       "description" : "",
-      "written" : "Guide Bazaar"
+      "written" : "Cafe Bazaar (Persian: کافه بازار) is an Iranian Android marketplace founded in April 2011 by Reza Mohammadi and Hessam Armandehi. In April 2019 Cafe Bazaar announced it has surpassed 40 million users. Cafe Bazaar provides its services specifically to Persian-speaking users and offers more than 25,000 downloadable Iranian and international apps for gaming, social media, messaging and other uses."
     },
     {
       "id" : 2,
-      "imageURL" : "https://image.winudf.com/v2/image1/Y29tLmJhemFyY2hlaC5hcHBfc2NyZWVuXzFfMTU4Mjk5NTM5MV8wMjk/screen-2.jpg?fakeurl=1&type=.jpg",
+      "imageURL" : "https://dadamou.github.io/bazzaar/What%20do%20we%20do.png",
       "state" : "free",
-      "title" : "Activity 3",
+      "title" : "",
       "description" : "",
-      "written" : "Step 3"
+      "written" : "Cafe Bazaar is striving to provide advantages to other Android stores, whether domestic or abroad, and to optimize and localize our services for Iranian users. Below are some examples from the broad array of services we provide: Publishing applications and games in Farsi; Providing easy payment services for domestic users; Selected content chosen by Cafe Bazaar editors."
     },
     {
       "id" : 3,
-      "imageURL" : "https://image.winudf.com/v2/image1/Y29tLmJhemFyY2hlaC5hcHBfc2NyZWVuXzJfMTU4Mjk5NTM5MV8wMjE/screen-3.jpg?fakeurl=1&type=.jpg",
+      "imageURL" : "https://dadamou.github.io/bazzaar/Shareholders%20and%20firms.png",
       "state" : "free",
-      "title" : "Activity 4",
+      "title" : "",
       "description" : "",
-      "written" : "Step 4"
+      "written" : "Cafe Bazaar was developed by the Avayeh Hooshman Hamrah Hezardastan company and is currently owned by the Hezardastan Technology Development Group."
     },
-    {
+      {
       "id" : 4,
-      "imageURL" : "https://image.winudf.com/v2/image1/Y29tLmJhemFyY2hlaC5hcHBfc2NyZWVuXzNfMTU4Mjk5NTM5MV8wNzM/screen-4.jpg?fakeurl=1&type=.jpg",
+      "imageURL" : "https://dadamou.github.io/bazzaar/How%20to%20use%20the%20Bazar%20website.png",
       "state" : "free",
-      "title" : "Activity 5",
+      "title" : "",
       "description" : "",
-      "written" : "Step 4"
+      "written" : "Bazar website offers us an easy and simple user experience as it provides a lot of solutions to use the site as it provides you next to the platform provides an Android application that you can install on your mobile phone for easy downloading of applications as is the case in Google Play All you have to do now is to go to the site via the link Next: The Bazra website link after entering the site will ask you whether you would like to download their application or continue browsing the site as it appears to you in the following picture"
     },
     {
       "id" : 5,
-      "imageURL" : "https://image.winudf.com/v2/image1/Y29tLmJhemFyY2hlaC5hcHBfc2NyZWVuXzRfMTU4Mjk5NTM5Ml8wNDk/screen-5.jpg?fakeurl=1&type=.jpg",
+      "imageURL" : "https://dadamou.github.io/bazzaar/Register%20on%20the%20site.png",
       "state" : "free",
-      "title" : "Activity 6",
+      "title" : "",
       "description" : "",
-      "written" : "Step 6"
+      "written" : "The New Cafe Bazaar It is one of the easiest registration processes, whether you are a user or a developer of Android applications, we will explain a method Simply register and log in to the site. In the image below, you click on the word LOG IN."
     },
     {
-      "id" : 6,
-      "imageURL" : "",
+     "id" : 6,
+      "imageURL" : "https://dadamou.github.io/bazzaar/Register%20on%20the%20site1.png",
       "state" : "free",
-      "title" : "Test title 6",
+      "title" : "Tips : Register on the site",
       "description" : "",
-      "written" : "Test written 6"
+      "written" : "After that, a window like the picture below will bloom for you asking you to add your number if you are a user, and a message will be sent to you on your phone containing an activation code and after entering you, you only have to search for your favorite application and start using the Bazar website and download applications."
     },
     {
       "id" : 7,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
-      "state" : "vip",
-      "title" : "Test title 7",
+      "imageURL" : "https://dadamou.github.io/bazzaar/DISCLAIMER.png",
+      "state" : "free",
+      "title" : "",
       "description" : "",
-      "written" : "Test written 7"
-    },
-    {
-      "id" : 8,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
-      "state" : "vip",
-      "title" : "Test title 8",
-      "description" : "",
-      "written" : "Test written 8"
+      "written" : "This is not a Bazaar cafe official app, This is an UNOFFICIAL Bazaar market app guide created by fans, not associated or affiliated with developers of any app or any of their partners"
     }
   ]
 }
