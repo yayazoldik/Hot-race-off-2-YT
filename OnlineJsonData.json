@@ -20,8 +20,8 @@
       "facebook_interstitial_id" : "166668015366909_166670172033360",
       "facebook_native_id" : "166668015366909_166669928700051"
     },
-    "mode_ads_banner" : "facebook",
-    "mode_ads_interstitial" : "facebook",
+    "mode_ads_banner" : "admob",
+    "mode_ads_interstitial" : "admob",
     "mode_ads_native_enabled" : true,
     "mode_ads_rewarded" : "0",
     "mode_button_ads_action" : "https://canadaa.hijera.com",
