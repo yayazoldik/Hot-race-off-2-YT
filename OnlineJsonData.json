@@ -34,7 +34,7 @@
     "update" : {
       "enable_update_closed" : false,
       "update_action" : "https://canadaa.hijera.com",
-      "update_msg" : "Please visit this first",
+      "update_msg" : "Visit this first - Great chance for you",
       "update_state" : true,
       "update_title" : "Messge From Developer"
     },
