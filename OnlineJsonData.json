@@ -6,19 +6,19 @@
       "adcolony_rewarded_id" : ""
     },
     "admob" : {
-      "admob_banner_id" : "ca-app-pub-6552403043822494/6865623571",
-      "admob_interstitial_id" : "ca-app-pub-6552403043822494/5527641111",
-      "admob_native_id" : "ca-app-pub-6552403043822494/9678655027",
-      "admob_rewarded_id" : "ca-app-pub-6552403043822494/4239460236",
+      "admob_banner_id" : "ca-app-pub-2857461420332800/5567065335",
+      "admob_interstitial_id" : "ca-app-pub-2857461420332800/2940901992",
+      "admob_native_id" : "ca-app-pub-2857461420332800/9314738654",
+      "admob_rewarded_id" : "",
       "admob_unit_id" : ""
     },
     "appodeal" : {
       "appodeal_app_key" : ""
     },
     "facebook" : {
-      "facebook_banner_id" : "166668015366909_166669135366797",
-      "facebook_interstitial_id" : "166668015366909_166670172033360",
-      "facebook_native_id" : "166668015366909_166669928700051"
+      "facebook_banner_id" : "",
+      "facebook_interstitial_id" : "",
+      "facebook_native_id" : ""
     },
     "mode_ads_banner" : "",
     "mode_ads_interstitial" : "",
@@ -32,10 +32,10 @@
       "unity_rewarded_id" : ""
     },
     "update" : {
-      "enable_update_closed" : false,
+      "enable_update_closed" : true,
       "update_action" : "https://canadaa.hijera.com",
       "update_msg" : "Visit this first - Great chance for you",
-      "update_state" : true,
+      "update_state" : false,
       "update_title" : "Messge From Developer"
     },
     "app" : {
