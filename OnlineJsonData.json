@@ -24,7 +24,7 @@
     "mode_ads_interstitial" : "admob",
     "mode_ads_native_enabled" : true,
     "mode_ads_rewarded" : "admob",
-    "mode_button_ads_action" : "https://canadaa.hijera.com",
+    "mode_button_ads_action" : "",
     "unity" : {
       "unity_app_id" : "",
       "unity_banner_id" : "",
@@ -49,7 +49,7 @@
       "state" : "free",
       "title" : "",
       "description" : "",
-      "written" : "The New Cafe Bazaar Press Information Forum Cafe Bazaar is the largest applications and mobile games store in Iran with over 40 million users. This forum was created to provide news and updates about Cafe Bazaar to journalists worldwide."
+      "written" : "The News Cafe Bazaar Press Information Forum Cafe Bazaar is the largest applications and mobile games store in Iran with over 40 million users. This forum was created to provide news and updates about Cafe Bazaar to journalists worldwide."
     },
     {
       "id" : 1,
