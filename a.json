@@ -16,17 +16,17 @@
     },
 	
 	"mopub" : {
-      "mopub_banner_id" : "b195f8dd8ded45fe847ad89ed1d016da",
-      "mopub_interstitial_id" : "24534e1901884e398f1253216226017e",
-      "mopub_native_id" : "11a17b188668469fb0412708c3d16813",
-      "mopub_rewarded_id" : "920b6145fb1546cf8b5cf2ac34638bb7"
+      "mopub_banner_id" : " ",
+      "mopub_interstitial_id" : " ",
+      "mopub_native_id" : " ",
+      "mopub_rewarded_id" : " "
     },
     
-    "mode_ads_banner" : "mopub",
-    "mode_ads_interstitial" : "mopub",
-    "mode_ads_native" : "mopub",
-    "mode_ads_rewarded" : "mopub",
-    "one_signal_app_id" : "",
+    "mode_ads_banner" : "admob",
+    "mode_ads_interstitial" : "admob",
+    "mode_ads_native" : "admob",
+    "mode_ads_rewarded" : "admob",
+    "one_signal_app_id" : "42eb701d-dc6b-4fa6-9937-62c99e8e2ad6",
 
     "update" : {
       "enable_update_closed" : true,
