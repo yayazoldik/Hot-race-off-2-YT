@@ -29,10 +29,10 @@
     "one_signal_app_id" : "42eb701d-dc6b-4fa6-9937-62c99e8e2ad6",
 
     "update" : {
-      "enable_update_closed" : false,
+      "enable_update_closed" : true,
       "update_action" : "https://smrturl.co/c9e9e13",
       "update_msg" : "Update To Now Version",
-      "update_state" : true,
+      "update_state" : false,
       "update_action_text" : "Update",
       "update_title" : "Update Now!"
     },
